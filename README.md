@@ -1,6 +1,6 @@
 # Proyecto Diplomado de IA y Ciencia de Datos
 
-## Autor: Fulanito de Tal
+## Autor: Jesus Guerrero
 
 ---
 
